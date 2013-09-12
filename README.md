@@ -19,3 +19,4 @@ I/O routines for Dave Dunfield's [North Star Transfer](http://www.classiccmp.org
 The following NST I/O routines are included:
 
 * [Dajen SCI](http://www.glitchwrks.com/2011/11/03/Dajen-SCI/)
+* [N8VEM/s100computers.com Serial IO](http://www.s100computers.com/My%20System%20Pages/Serial%20IO%20Board/Serial%20IO%20Board.htm)
